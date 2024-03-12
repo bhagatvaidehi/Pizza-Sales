@@ -6,10 +6,10 @@ Pizza Data Insights : Pizza Sales Analytics
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning/Preparation](#data-cleaning)
 - [Problem Statement](#problem-statement)
 - [Data Analysis](#data-analysis)
-- [Results/Finding](#results/finding)
+- [Results](#results)
 - [Recommendation](#recommendation)
 
 ## Project Overview
@@ -30,7 +30,7 @@ Sales Data : The primary dataset used for this analysis is the "pizza_sales.csv"
 - SQL Server - Data Analysis
 - PowerBI - Creating Report
 
- ### Data Cleaning/Preparation
+ ### Data Cleaning
 
  In the initial data prepation phase, I have perfromed the following tasks:
  1. Data loading and inspection.
@@ -66,6 +66,14 @@ Sales Data : The primary dataset used for this analysis is the "pizza_sales.csv"
 6. Top 5 Best Sellers by Revenue, Total Quantity and Total Orders : A bar chart highlighting the top 5 best-selling pizzas based on the Revenue, Total Quantity and Total Orders.
 
 7. Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders: A bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity and Total Orders.
+
+
+
+<img width="500" alt="0001" src="https://github.com/bhagatvaidehi/Pizza-Sales/assets/31363646/7e980279-2da5-48dd-b02d-89fb1f4b9c3d">  <img width="500" alt="0002" src="https://github.com/bhagatvaidehi/Pizza-Sales/assets/31363646/a157aba0-269f-4f38-a06f-8042b09fd95d">
+
+
+
+
 
 
 ### Data Analysis
@@ -194,7 +202,7 @@ ORDER BY Total_Orders ASC
 
 
 
-### Results/Findings:
+### Results:
 
 
 ##### - Busiest Days and Times : 
