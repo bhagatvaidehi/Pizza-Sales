@@ -222,7 +222,7 @@ ORDER BY Total_Orders ASC
 - Collaborate with local businesses and schools.
 
 
-#### Refernece 
+#### References
 - Stack Overflow
 - Coursera
  
