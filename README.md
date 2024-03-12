@@ -1,5 +1,11 @@
-# Pizza-Sales Analysis
-Pizza Data Insights : Pizza Sales Analytics
+# Pizza Sales Analysis
+
+"Data-driven decisions in the pizza business aren't just toppings; they're the secret sauce for success. From identifying peak ordering times to spotlighting customer favorites, harnessing data insights helps us deliver more than just pizza—it's a slice of customer satisfaction."
+
+
+
+
+
 
 ## Table of Contents
 
